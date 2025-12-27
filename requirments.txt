@@ -1,4 +1,4 @@
-flak
+flask
 joblib
 numpy
 pandas
