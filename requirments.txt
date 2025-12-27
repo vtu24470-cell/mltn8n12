@@ -1,0 +1,7 @@
+flak
+joblib
+numpy
+pandas
+sckit-learn
+gunicorn
+mathplotlib
